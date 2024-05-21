@@ -1,5 +1,7 @@
 
 import './App.css'
+import AnotherForm from './Components/AnotherForm/AnotherForm'
+
 import SimpleForm from './Components/SimpleForm/SimpleForm'
 
 function App() {
@@ -7,7 +9,8 @@ function App() {
 
   return (
     <>
-  <SimpleForm></SimpleForm>
+  {/*<SimpleForm></SimpleForm>*/}
+ <AnotherForm></AnotherForm>
     </>
   )
 }

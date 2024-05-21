@@ -19,7 +19,7 @@ const SimpleForm = () => {
             <br />
             <input type="number" placeholder="Number" name="number" className="input mt-3 input-bordered input-primary w-full max-w-xs" />
             <br />
-            <input type="email" placeholder="Email" name="email" className="mt-3 input mt-3 input-bordered input-primary w-full max-w-xs" />
+            <input type="email" placeholder="Email" name="email" className=" input mt-3 input-bordered input-primary w-full max-w-xs" />
             <br />
             <button className="btn btn-outline mt-5 btn-primary">Primary</button>
            </form>
